@@ -16,21 +16,21 @@ The purpose of this blog is to:
 
 ## 🏗️ Project Structure
 ruki-tech-journey-blog/
-│
-├── index.html # Homepage with blog intro and featured posts
-├── about.html # About page describing the author
-├── projects.html # Projects page displaying work as postcards
-├── contact.html # Contact page with validated form
-│
-├── css/
-│ └── style.css # Main stylesheet (layout, responsive design, animations)
-│
-├── js/
-│ └── main.js # Handles menu toggle, custom form validation, page transitions
-│
-├── images/ # Blog images, project thumbnails, and logo
-│
-└── README.md # Project documentation
+-│
+-├── index.html # Homepage with blog intro and featured posts
+-├── about.html # About page describing the author
+-├── projects.html # Projects page displaying work as postcards
+-├── contact.html # Contact page with validated form
+-│
+-├── css/
+-│ └── style.css # Main stylesheet (layout, responsive design, animations)
+-│
+-├── js/
+-│ └── main.js # Handles menu toggle, custom form validation, page transitions
+-│
+-├── images/ # Blog images, project thumbnails, and logo
+-│
+-└── README.md # Project documentation
 
 ---
 
@@ -46,9 +46,7 @@ ruki-tech-journey-blog/
 ---
 
 ## 🚀 Live URL
-🔗 [Live Blog](https://your-live-blog-url.com)  
-
-*(Replace with your actual link once hosted on GitHub Pages, Netlify, or Vercel.)*
+🔗 [Live Blog](https://colloh-codes-blog.netlify.app/)  
 
 ---
 
