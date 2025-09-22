@@ -1,4 +1,5 @@
 # ✍️ Colloh codes Tech Journey Blog
+https://colloh-codes-blog.netlify.app/
 
 This is my personal blog project, where I share insights, experiences, and learnings from my journey in technology, coding, and personal development.  
 The site is designed to be simple, fast, and user-friendly, with smooth navigation and a clean layout.
@@ -16,21 +17,37 @@ The purpose of this blog is to:
 
 ## 🏗️ Project Structure
 ruki-tech-journey-blog/
+
 -│
+
 -├── index.html # Homepage with blog intro and featured posts
+
 -├── about.html # About page describing the author
+
 -├── projects.html # Projects page displaying work as postcards
+
 -├── contact.html # Contact page with validated form
+
 -│
+
 -├── css/
+
 -│ └── style.css # Main stylesheet (layout, responsive design, animations)
+
 -│
+
 -├── js/
+
 -│ └── main.js # Handles menu toggle, custom form validation, page transitions
+
 -│
+
 -├── images/ # Blog images, project thumbnails, and logo
+
 -│
+
 -└── README.md # Project documentation
+
 
 ---
 
